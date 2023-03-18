@@ -1,6 +1,7 @@
 <h1>Amoji</h1>
 <p>Amoji is a web-based repository of Apple emojis that you can use to replace the standard emojis on your website. The repository supports all of Apple's emojis and can be accessed using the following URL: <a href="https://raw.githubusercontent.com/hushra/amoji/main/emojis/%F0%9F%98%81.png">https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png</a>.</p>
-<p>
+<p align="center">
+  <br>
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😎.png">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🐢.png">
