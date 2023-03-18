@@ -7,7 +7,7 @@
 <pre class="code-block-wrapper"><div class="code-block-header"><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png"</span> <span class="hljs-attr">alt</span>=<span class="hljs-string">"Grinning Face"</span>&gt;</span>
 </code></pre>
 <p>This will display the Grinning Face emoji wherever the <code>&lt;img&gt;</code> tag is used :</p>
-<div style="white-space:nowrap;overflow:hidden;text-align:center">
+<p align="center">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😎.png">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😍.png">
@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🚀.png">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🍕.png">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🐢.png">
-</div>
+  </p>
 <h2>Contributing</h2>
 <p>Contributions to Amoji are welcome and encouraged. If there is an Apple emoji that is missing from the repository or you have an idea for improving the project, feel free to submit a pull request or open an issue on the GitHub page.</p>
 <h2>License</h2>
