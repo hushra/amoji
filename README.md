@@ -1,14 +1,19 @@
 <h1>Amoji</h1>
 <p>Amoji is a web-based repository of Apple emojis that you can use to replace the standard emojis on your website. The repository supports all of Apple's emojis and can be accessed using the following URL: <a href="https://raw.githubusercontent.com/hushra/amoji/main/emojis/%F0%9F%98%81.png">https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png</a>.</p>
+<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png">
+<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/♥.png">
+<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😎.png">
+<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🐢.png">
+<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🚀.png">
 <h2>Getting Started</h2>
 <p>To get started with Amoji, you need to include the <code>script.js</code> file in your HTML code. You can do this by adding the following line at the bottom of the <code>body</code> tag:</p>
-<pre class="code-block-wrapper"><div class="code-block-header"><span class="code-block-header__lang">html</span><span class="code-block-header__copy">Copy Code</span></div><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://raw.githubusercontent.com/hushra/amoji/main/script.js"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+<pre class="code-block-wrapper"><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://raw.githubusercontent.com/hushra/amoji/main/script.js"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
 </code></pre>
 <p>This script will replace all standard emojis on your website with the corresponding Apple emoji from the Amoji repository.</p>
 <h2>Usage</h2>
 <p>Once you have included the <code>script.js</code> file, you can start using the Apple emojis on your website. Simply use the standard emoji code and it will be automatically replaced by the corresponding Apple emoji.</p>
 <p>For example, if you want to use the smiling face with open mouth and smiling eyes emoji (😄) on your website, you can simply use the following code:</p>
-<pre class="code-block-wrapper"><div class="code-block-header"><span class="code-block-header__lang">html</span><span class="code-block-header__copy">Copy Code</span></div><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>This is a happy emoji 😄<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+<pre class="code-block-wrapper"><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>This is a happy emoji 😄<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 </code></pre>
 <p>When the webpage loads, the standard emoji code (<code>:smile:</code>) will be replaced by the corresponding Apple emoji from the Amoji repository.</p>
 <h2>Contributing</h2>
