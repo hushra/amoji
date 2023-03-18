@@ -7,7 +7,7 @@
 <pre class="code-block-wrapper"><div class="code-block-header"><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png"</span> <span class="hljs-attr">alt</span>=<span class="hljs-string">"Grinning Face"</span>&gt;</span>
 </code></pre>
 <p>This will display the Grinning Face emoji wherever the <code>&lt;img&gt;</code> tag is used :</p>
-<p align="center">
+<p align="center;margin:20px">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😎.png">
 <img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😍.png">
