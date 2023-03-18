@@ -1,23 +1,15 @@
 <h1>Amoji</h1>
-<p>Amoji is a repository on GitHub that provides support for all Apple emojis using the URL <a href="https://raw.githubusercontent.com/hushra/amoji/main/emojis/%F0%9F%98%81.png">https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png</a>, or any other desired emoji.</p>
-<h2>Installation</h2>
-<p>To use Amoji in your project, simply download the desired emoji from the above-mentioned URL and include it in your code as an image file.</p>
-<h2>Usage</h2>
-<p>Amoji allows you to easily include Apple emojis in your web applications, software projects, or anywhere else you may need them. To use an emoji from Amoji, first download the desired emoji from the repository. Then, include the emoji in your code as an image file with the appropriate file path. For example:</p>
-<pre class="code-block-wrapper"><div class="code-block-header"><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png"</span> <span class="hljs-attr">alt</span>=<span class="hljs-string">"Grinning Face"</span>&gt;</span>
+<p>Amoji is a web-based repository of Apple emojis that you can use to replace the standard emojis on your website. The repository supports all of Apple's emojis and can be accessed using the following URL: <a href="https://raw.githubusercontent.com/hushra/amoji/main/emojis/%F0%9F%98%81.png">https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png</a>.</p>
+<h2>Getting Started</h2>
+<p>To get started with Amoji, you need to include the <code>script.js</code> file in your HTML code. You can do this by adding the following line at the bottom of the <code>body</code> tag:</p>
+<pre class="code-block-wrapper"><div class="code-block-header"><span class="code-block-header__lang">html</span><span class="code-block-header__copy">Copy Code</span></div><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://raw.githubusercontent.com/hushra/amoji/main/script.js"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
 </code></pre>
-<p>This will display the Grinning Face emoji wherever the <code>&lt;img&gt;</code> tag is used :</p>
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😎.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😍.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🥱.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🚀.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🍕.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🐢.png">
-  </p>
+<p>This script will replace all standard emojis on your website with the corresponding Apple emoji from the Amoji repository.</p>
+<h2>Usage</h2>
+<p>Once you have included the <code>script.js</code> file, you can start using the Apple emojis on your website. Simply use the standard emoji code and it will be automatically replaced by the corresponding Apple emoji.</p>
+<p>For example, if you want to use the smiling face with open mouth and smiling eyes emoji (😄) on your website, you can simply use the following code:</p>
+<pre class="code-block-wrapper"><div class="code-block-header"><span class="code-block-header__lang">html</span><span class="code-block-header__copy">Copy Code</span></div><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>This is a happy emoji 😄<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+</code></pre>
+<p>When the webpage loads, the standard emoji code (<code>:smile:</code>) will be replaced by the corresponding Apple emoji from the Amoji repository.</p>
 <h2>Contributing</h2>
-<p>Contributions to Amoji are welcome and encouraged. If there is an Apple emoji that is missing from the repository or you have an idea for improving the project, feel free to submit a pull request or open an issue on the GitHub page.</p>
-<h2>License</h2>
-<p>Amoji is licensed under the MIT license. See the LICENSE file for more details.</p>
+<p>If you would like to contribute to the Amoji repository, please feel free to submit a pull request. We welcome contributions from the community and appreciate any help we can get.</p>
