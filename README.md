@@ -13,6 +13,9 @@
 <pre class="code-block-wrapper"><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/gh/hushra/amoji@main/script.js"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
 </code></pre>
 <p>This script will replace all standard emojis on your website with the corresponding Apple emoji from the Amoji repository.</p>
+<p>now you most call <code>amoji()</code> function to
+replace emojis with apple version of them. this function requires two input (element, font-size), elemdnt is that element you want to replace emojis of that, and font-size is <code>em</code> size of img you need to replace</p>
+<p>and now you can see new emojis in your website or application :)</p>
 <h2>Usage</h2>
 <p>Once you have included the <code>script.js</code> file, you can start using the Apple emojis on your website. Simply use the standard emoji code and it will be automatically replaced by the corresponding Apple emoji.</p>
 <p>For example, if you want to use the smiling face with open mouth and smiling eyes emoji (😄) on your website, you can simply use the following code:</p>
